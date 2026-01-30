@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1><center>HI, I'm Ashu Shekhar</center></h1>
+<hr>
+<h2>About me 🚀</h2>
+<p>Student Developer studying in Banglore! 🎓</p>
+<p>I'm actively exploring:</p>
+<p>-Backend development with Python</p>
+<p>-Web technologies and API's</p>
+<p>-Open-Source contribution and collaborative devlopment</p>
+<hr>
+<h2>🛠️ Tech Stack</h2>
+<h3>Languages</h3>
+<p>Python</p>
+<p>JavaScript</p>
+<h3>Frameworks & Tools 🧩</h3>
+<p>FastAPI</p>
+<p>Django</p>
+<p>Git & Github</p>
+<h3>Interests 🧠</h3>
+<p>AI / ML</p>
+<p>Backend & API's</p>
+<p>Emerging developer tools</p>
+<hr>
+<h3>Projects 🧪</h3>
+<p>Finance Ledger App</p>
+<p>
+A backend-focused finance tracking application built to help users monitor expenses and spending patterns over time.
+</p>
+<p>What it does:
+- Records income and expense transactions
+- Displays monthly and yearly spending summaries
+- Visualizes spending using:
+  - 📊 Bar graphs for time-based analysis
+  - 🥧 Pie charts for category-wise expense breakdown
+- Helps users keep a clear and structured view of their finances.
+</p>
+<h2>Tech Used:</h2>
+<p>FastAPI</p>
+<p>Python & JavaScript</p>
+<hr>
 
-<!--
-**AshuShekhar07/AshuShekhar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+ 
+
+
