@@ -70,7 +70,7 @@ Applying for Google Summer of Code 2026 with open-source organizations:
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/oppia/oppia">
-        <img src="https://avatars.githubusercontent.com/u/12820765?s=48&v=4" width="40" height="40" style="border-radius:8px;" /><br/>
+        <img src="https://repository-images.githubusercontent.com/40687563/6ebdd900-b879-11e9-927a-490af85f8567" width="120" height="60" style="object-fit:cover; border-radius:8px;" /><br/><br/>
         <strong>Oppia</strong>
       </a>
       <br/>
@@ -81,7 +81,7 @@ Applying for Google Summer of Code 2026 with open-source organizations:
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Submitty/Submitty">
-        <img src="https://avatars.githubusercontent.com/u/17743524?s=48&v=4" width="40" height="40" style="border-radius:8px;" /><br/>
+        <img src="https://submitty.org/images/submitty_logo.png" width="120" height="60" style="object-fit:cover; border-radius:8px;" /><br/><br/>
         <strong>Submitty</strong>
       </a>
       <br/>
