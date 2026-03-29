@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ashu Shekhar 👋</h1>
 
 <p align="center">
-  Student Developer · Bangalore 🇮🇳 · GSoC 2026 Applicant @ Submitty
+  Student Developer · Bangalore 🇮🇳 · GSoC 2026 Applicant @ Submitty & Oppia
 </p>
 
 <p align="center">
@@ -12,9 +12,12 @@
 
 ---
 
-### 🚀 GSoC 2026 — Submitty
+### 🚀 GSoC 2026
 
-Applying for Google Summer of Code 2026 with **[Submitty](https://submitty.org)** — an open-source homework submission & autograding platform built at RPI.
+Applying for Google Summer of Code 2026 with open-source organizations:
+
+- **[Submitty](https://submitty.org)** — Homework submission & autograding platform built at RPI
+- **[Oppia](https://www.oppia.org)** — Open-source interactive learning platform making quality education accessible worldwide
 
 ---
 
@@ -63,10 +66,32 @@ Applying for Google Summer of Code 2026 with **[Submitty](https://submitty.org)*
 
 ### 🤝 Open Source Contributions
 
-| Organization | Description |
-|---|---|
-| [Oppia](https://github.com/oppia/oppia) | Open-source learning platform making education accessible |
-| [Submitty](https://github.com/Submitty/Submitty) | Homework submission & autograding platform — GSoC 2026 |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/oppia/oppia">
+        <img src="https://avatars.githubusercontent.com/u/12820765?s=48&v=4" width="40" height="40" style="border-radius:8px;" /><br/>
+        <strong>Oppia</strong>
+      </a>
+      <br/>
+      <sub>Open-source interactive learning platform making quality education accessible worldwide</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/GSoC%202026-Applicant-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Contributor-Active-3fb950?style=flat-square"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Submitty/Submitty">
+        <img src="https://avatars.githubusercontent.com/u/17743524?s=48&v=4" width="40" height="40" style="border-radius:8px;" /><br/>
+        <strong>Submitty</strong>
+      </a>
+      <br/>
+      <sub>Homework submission & autograding platform built at Rensselaer Polytechnic Institute</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/GSoC%202026-Applicant-4285F4?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Contributor-Active-3fb950?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,10 +128,6 @@ A backend-focused finance tracking app to help users monitor expenses and spendi
 <p align="center">
   <i>Open to collaboration · Made with ❤️ from Bangalore</i>
 </p>
-
-
-
-
 
 
 
