@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ashu Shekhar 👋</h1>
 
 <p align="center">
-  Student Developer · Bangalore 🇮🇳 · GSoC 2026 Applicant @ Submitty & Oppia
+  Student Developer · Bangalore 🇮🇳 · GSoC 2026 Applicant @ Submitty 
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 Applying for Google Summer of Code 2026 with open-source organizations:
 
 - **[Submitty](https://submitty.org)** — Homework submission & autograding platform built at RPI
-- **[Oppia](https://www.oppia.org)** — Open-source interactive learning platform making quality education accessible worldwide
 
 ---
 
