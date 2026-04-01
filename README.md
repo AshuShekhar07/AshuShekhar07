@@ -96,6 +96,34 @@ Applying for Google Summer of Code 2026 with open-source organizations:
 
 ### 🧪 Projects
 
+**CivicConnect — Civic Issue Management Platform**
+
+A full-stack civic issue management platform built around two types of users: community users and administrators. Users can report local issues by uploading photos, writing descriptions, and tagging locations, while administrators review, assign, and resolve them through a dedicated portal.
+
+- Role-based portals for community users and administrators
+- Photo upload, description, and location tagging for issue reporting
+- Admin dashboard to assign, track, and resolve issues
+- AI/ML-powered automatic issue categorization using NLP and image classification
+- Smart priority detection to assign urgency levels (high, medium, low)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logoColor=white)
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+
+
+---
+
 **Finance Ledger App**
 
 A backend-focused finance tracking app to help users monitor expenses and spending patterns over time.
